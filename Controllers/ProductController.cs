@@ -44,7 +44,7 @@ namespace DataTables.Controllers.Coffee
         {
             ProductModel product = products.FirstOrDefault(p => p.ProductID == id);
             products.Remove(product);
-            return View("ProductList", products);
+            return RedirectToAction("ProductList", products);
         }
         public IActionResult PerformEdit(ProductModel pm)
         {
@@ -55,10 +55,10 @@ namespace DataTables.Controllers.Coffee
                 products.Remove(product);
                 products.Add(pm);
                 products = products.OrderBy(p => p.ProductID).ToList();
-                return View("ProductList",products);
+                return RedirectToAction("ProductList",products);
             }
             else
-                return View("AddEditProduct");
+                return RedirectToAction("AddEditProduct");
         }
     }
 }
