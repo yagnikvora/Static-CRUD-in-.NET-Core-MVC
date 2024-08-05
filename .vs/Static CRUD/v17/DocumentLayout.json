@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|e:\\sem-5\\.net\\.net practicals\\static crud\\views\\product\\addeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|solutionrelative:views\\product\\addeditproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|e:\\sem-5\\.net\\.net practicals\\static crud\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|e:\\sem-5\\.net\\.net practicals\\static crud\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|e:\\sem-5\\.net\\.net practicals\\static crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|e:\\sem-5\\.net\\.net practicals\\static crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7075F18-EF4B-4B8B-BBCE-D539527E6E2C}|Static CRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditProduct.cshtml",
+              "DocumentMoniker": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Views\\Product\\AddEditProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddEditProduct.cshtml",
+              "ToolTip": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Views\\Product\\AddEditProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddEditProduct.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T16:28:48.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:11:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAADwvycAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T15:59:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBoAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:57:11.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "E:\\SEM-5\\.NET\\.NET Practicals\\Static CRUD\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T15:55:55.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

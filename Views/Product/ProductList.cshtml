@@ -1,0 +1,42 @@
+﻿@using DataTables.Models.Coffee
+@model List<DataTables.Models.Coffee.ProductModel>
+<h2>Products List</h2>
+<hr />
+<a class="btn btn-info" asp-controller="Product" asp-action="AddEditProduct">Add Product</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product ID</th>
+            <th>ProductName</th>
+            <th>ProductPrice</th>
+            <th>ProductCode</th>
+            <th>Description</th>
+            <th>UserID</th>
+            <th colspan="2">Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+         @{
+            foreach (var e in Model)
+            {
+                <tr>
+                    <td>@e.ProductID</td>
+                    <td>@e.ProductName</td>
+                    <td>@e.ProductPrice</td>
+                    <td>@e.ProductCode</td>
+                    <td>@e.Description</td>
+                    <td>
+                    <a class="btn btn-warning" href="@Url.Action("AddEditProduct","Product",new {id = e.ProductID})">
+                    <h5 class="bx bx-edit"></h5>
+                    </a>
+                    </td>
+                    <td>
+                    <a class="btn btn-danger" href="@Url.Action("PerformDelete","Product",new {id = e.ProductID})">
+                    <h5 class="bx bxs-trash"></h5>
+                    </a>
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

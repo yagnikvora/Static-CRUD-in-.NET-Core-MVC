@@ -1,0 +1,30 @@
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\appsettings.Development.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\appsettings.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.staticwebassets.runtime.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.exe
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.deps.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.runtimeconfig.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.dll
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\bin\Debug\net8.0\Static CRUD.pdb
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.AssemblyInfoInputs.cache
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.AssemblyInfo.cs
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.csproj.CoreCompileInputs.cache
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.MvcApplicationPartsAssemblyInfo.cache
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.RazorAssemblyInfo.cache
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.RazorAssemblyInfo.cs
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets.build.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets.development.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets\msbuild.Static CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets\msbuild.build.Static CRUD.props
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Static CRUD.props
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Static CRUD.props
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\staticwebassets.pack.json
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\scopedcss\bundle\Static CRUD.styles.css
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\scopedcss\projectbundle\Static CRUD.bundle.scp.css
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.dll
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\refint\Static CRUD.dll
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.pdb
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\Static CRUD.genruntimeconfig.cache
+E:\SEM-5\.NET\.NET Practicals\Static CRUD\obj\Debug\net8.0\ref\Static CRUD.dll
